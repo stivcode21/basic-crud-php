@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+.boton{
+    display: flex !important;
+    margin-left: auto !important;
+    margin-right: auto !important; 
+}   
+.cols{
+    text-align: center !important;
+}
+.ttd{
+    color: rgb(19, 80, 173) !important;
+    text-decoration: none;
+    margin-left: 5%
+}
